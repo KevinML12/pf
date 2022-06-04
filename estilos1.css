@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Comic Sans MS';
+    color: black;
+}
+h2 {
+    text-align:justify;
+    font-size: medium;
+    font-family: 'Comic Sans MS';
+    color: black;
+}
+img {
+    border:rgba(14, 2, 30, 0.6);
+    border-radius: 45px;
+    display: inline-block   ;
+    margin: auto;
+    text-align: center;
+}

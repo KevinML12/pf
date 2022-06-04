@@ -1,0 +1,47 @@
+body{
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Comic Sans MS';
+    background-image: url("FONDO2.jpg");
+    color: antiquewhite;
+}
+h2 {
+    font-size: large;
+    font-family: 'Comic Sans MS';
+    color: white;
+    background-color: blue;
+}
+a {
+    font-size: medium;
+    font-family: 'Comic Sans MS';
+    color: rgb(235, 246, 246);
+    background-image: url("FONDO2.jpg");
+    background-size: 500px;
+}
+ol {
+    font-size: large;
+    font-family: 'Comic Sans MS';
+    list-style-type: upper-roman;
+    color: blue;
+    background-color: greenyellow;
+    color: black;
+    background-size: 200px;
+}
+ul {
+    font-size: large;
+    font-family: 'Comic Sans MS';
+    color: blue;
+    background-color: rgb(205, 249, 255);
+}
+body {
+    background-image: url("FONDO1.jpg");
+}
+img {
+    border:rgba(14, 2, 30, 0.6);
+    border-radius: 45px;
+    display: block;
+    margin: auto;
+}
